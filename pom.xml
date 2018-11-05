@@ -35,7 +35,7 @@
         <version>3.3.4</version>
         <configuration>
           <cveValidForHours>12</cveValidForHours>
-          <failBuildOnCVSS>10</failBuildOnCVSS>
+          <failBuildOnCVSS>2</failBuildOnCVSS>
         </configuration>
         <executions>
           <execution>
