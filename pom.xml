@@ -21,9 +21,9 @@
   <dependencies>
     <!-- sample dependency to scan for vulnerabilities -->
 	<dependency>
-		<groupId>org.cloudfoundry.identity</groupId>
-		<artifactId>cloudfoundry-identity-uaa</artifactId>
-		<version>3.0.1</version>
+		<groupId>org.apache.hbase</groupId>
+		<artifactId>hbase</artifactId>
+		<version>0.92.2</version>
 	</dependency>
   </dependencies>
 
