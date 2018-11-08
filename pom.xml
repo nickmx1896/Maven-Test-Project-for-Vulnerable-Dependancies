@@ -21,9 +21,9 @@
   <dependencies>
     <!-- sample dependency to scan for vulnerabilities -->
 	<dependency>
-		<groupId>org.apache.hbase</groupId>
-		<artifactId>hbase</artifactId>
-		<version>0.92.2</version>
+		<groupId>org.apache.tomcat.embed</groupId>
+		<artifactId>tomcat-embed-core</artifactId>
+		<version>7.0.11</version>
 	</dependency>
   </dependencies>
 
