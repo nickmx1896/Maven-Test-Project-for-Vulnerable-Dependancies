@@ -14,8 +14,8 @@
 	
   <repositories>
     <repository>
-      <id>svn.apache.org</id>
-      <url>http://svn.apache.org/repos/asf/tomcat/</url>
+      <id>repo.jenkins-ci.org</id>
+      <url>https://repo.jenkins-ci.org/public/</url>
     </repository>
   </repositories>
 	
