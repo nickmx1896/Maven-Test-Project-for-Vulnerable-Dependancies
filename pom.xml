@@ -17,11 +17,6 @@
       <id>svn.apache.org</id>
       <url>http://svn.apache.org/repos/asf/tomcat/</url>
     </repository>
-    <repository>
-      <id>repo.dotcms.com</id>
-      <name>repo.dotcms.com-releases</name>
-      <url>http://repo.dotcms.com/artifactory/libs-release-local</url>
-    </repository>
   </repositories>
 	
   <properties>
