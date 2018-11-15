@@ -28,9 +28,10 @@
   <dependencies>
     <!-- sample dependency to scan for vulnerabilities -->
 	<dependency>
-		<groupId>org.apache.tomcat</groupId>
-		<artifactId>apache-tomcat</artifactId>
-		<version>5.5.25</version>
+		<groupId>org.bitcoinj</groupId>
+		<artifactId>bitcoinj-core</artifactId>
+		<version>0.8.1</version>
+		<scope>compile</scope>
 	</dependency>
   </dependencies>
 
